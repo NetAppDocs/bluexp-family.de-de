@@ -1,8 +1,19 @@
-= Übersicht über die Support-Registrierung
+= Unterstützung für Cloud-Provider-Lösungen
 :allow-uri-read: 
 
 
 Bevor Sie einen Support-Fall beim technischen Support von NetApp eröffnen können, müssen Sie BlueXP einen NetApp Support Site Account (NSS) hinzufügen und sich dann für den Support registrieren.
+
+
+
+== Unterstützung für Cloud-Provider-Lösungen
+
+Technische Unterstützung für Cloud-Provider-Lösungen finden Sie in der BlueXP-Dokumentation für Ihr Produkt unter „Hilfe erhalten“.
+
+* link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/start/concept-fsx-aws.html#getting-help["Amazon FSX für ONTAP"^]
+* link:https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/concept-azure-netapp-files.html#getting-help["Azure NetApp Dateien"^]
+* link:https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/concept-cvs-gcp.html#getting-help["Cloud Volumes Service für Google Cloud"^]
+
 
 
 
