@@ -231,4 +231,9 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Dies ist eine vom System generierte ID, die Ihrer E-Mail zugeordnet ist. Auf der Seite *NSS Management* können Sie Ihre E-Mail über anzeigen <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> Menü.</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Wenn Sie jemals Ihre Anmeldeinformationen aktualisieren müssen, gibt es im auch eine *Anmeldeinformationen aktualisieren*-Option <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> Menü.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Wenn Sie diese Option verwenden, werden Sie aufgefordert, sich erneut anzumelden. Beachten Sie, dass das Token für diese Konten nach 90 Tagen abläuft. Eine Benachrichtigung wird gesendet, um Sie darüber zu informieren.</block>
+  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">Sie können jetzt die Amazon S3-Buckets in den AWS-Konten verwalten, in denen der Connector installiert ist.</block>
+  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Amazon S3 Buckets managen</block>
+  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
+  <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3 Storage</block>
+  <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Erkennung und Management von Amazon S3 Buckets in Ihren AWS-Konten</block>
 </blocks>
