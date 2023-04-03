@@ -238,4 +238,8 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Anhang (optional)*: Laden Sie bis zu fünf Anhänge nacheinander hoch.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Anhänge sind auf 25 MB pro Datei begrenzt. Folgende Dateierweiterungen werden unterstützt: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aktennotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um maximal fünf Dateien anzuhängen.</block>
+  <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Wirtschaftliche Effizienz</block>
+  <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifizieren Sie Cluster mit aktueller oder prognostizierter niedriger Kapazität und implementieren Sie Daten-Tiering oder zusätzliche Kapazitätsempfehlungen.</block>
+  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Operative Ausfallsicherheit</block>
+  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementieren Sie automatische Risikobehebungen für Firmware- und Software-Konfigurationen, um den Zustand der ONTAP-Cluster aufrechtzuerhalten.</block>
 </blocks>
