@@ -155,7 +155,7 @@ product-family:
     summary: Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud
       –
     tags: all, storage, aws, azure
-  - title: ONTAP-Cluster vor Ort
+  - title: On-Premises ONTAP Cluster
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
     summary: Managen Sie Ihre NetApp AFF- und FAS-Systeme über BlueXP mit den Datenservices

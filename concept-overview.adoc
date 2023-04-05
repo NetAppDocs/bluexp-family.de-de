@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-overview.html 
 keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
-summary: Cloud Manager ist jetzt BlueXP. Mit BlueXP können Sie Ihre hybriden Multi-Cloud-Daten über eine einzige Kontrollebene aufbauen, schützen und steuern. 
+summary: NetApp BlueXP ist eine Weiterentwicklung von Cloud Manager. BlueXP ist eine einheitliche Managementplattform, die eine Hybrid-Multi-Cloud-Erfahrung für Storage und Datenservices über On-Premises- und Cloud-Umgebungen hinweg bietet. 
 ---
 = Willkommen bei NetApp BlueXP
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager ist jetzt BlueXP. Mit BlueXP können Sie Ihre hybriden Mu
 
 
 [role="lead"]
-Cloud Manager heißt jetzt BlueXP. Mit BlueXP können Sie Ihre hybriden Multi-Cloud-Daten über eine einzige Kontrollebene aufbauen, schützen und steuern.
+NetApp BlueXP ist eine Weiterentwicklung von Cloud Manager. BlueXP ist eine einheitliche Managementplattform, die eine Hybrid-Multi-Cloud-Erfahrung für Storage und Datenservices über On-Premises- und Cloud-Umgebungen hinweg bietet.
 
 
 

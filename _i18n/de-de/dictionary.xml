@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud Manager ist jetzt BlueXP. Mit BlueXP können Sie Ihre hybriden Multi-Cloud-Daten über eine einzige Kontrollebene aufbauen, schützen und steuern.</block>
   <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">Willkommen bei NetApp BlueXP</block>
-  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">Cloud Manager heißt jetzt BlueXP. Mit BlueXP können Sie Ihre hybriden Multi-Cloud-Daten über eine einzige Kontrollebene aufbauen, schützen und steuern.</block>
   <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">Unified Management</block>
   <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">Mit BlueXP können Sie Ihre gesamten Storage- und Daten-Assets über eine einzige Benutzeroberfläche managen.</block>
   <block id="e2f4ed3372452716e062769cee896707" category="paragraph">BlueXP ermöglicht die Erstellung und Verwaltung von Cloud-Storage (z. B. Cloud Volumes ONTAP und Azure NetApp Files), Nutzung von Datenservices (wie Cloud Backup und Cloud Data Sense) und Kontrolle vieler On-Premises- und Edge-Storage-Geräte.</block>
@@ -24,7 +22,6 @@
   <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
   <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">Erfahren Sie mehr über die Integration von Digital Advisor</block>
   <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
-  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP (ehemals Cloud Manager) bietet IT-Experten und Cloud-Architekten eine zentrale Managementoberfläche für das Management, die Überwachung und die Automatisierung von Daten in Hybrid-Multi-Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige Suchfunktion nach Inhalten in den BlueXP-Dokumenten.</block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP-Dokumentation</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp bietet Unterstützung für BlueXP und seine Cloud-Services auf unterschiedliche Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Diese Optionen sind kostenlos verfügbar, 24 Stunden am Tag, 7 Tage die Woche:</block>
@@ -173,7 +170,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Globale Dateifreigabe in Echtzeit für Ihre Mitarbeiter an verschiedenen Standorten</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes-Cluster</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud –</block>
-  <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">ONTAP-Cluster vor Ort</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">Schutz Vor Ransomware</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Bewerten Sie, wie widerstandsfähig Ihre Daten gegen einen Cyber-Angriff sind.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replizierung</block>
@@ -242,4 +238,7 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifizieren Sie Cluster mit aktueller oder prognostizierter niedriger Kapazität und implementieren Sie Daten-Tiering oder zusätzliche Kapazitätsempfehlungen.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Operative Ausfallsicherheit</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementieren Sie automatische Risikobehebungen für Firmware- und Software-Konfigurationen, um den Zustand der ONTAP-Cluster aufrechtzuerhalten.</block>
+  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP bietet Ihrem Unternehmen eine zentrale Managementoberfläche zum Erstellen, Schützen und Überwachen von Daten in Ihren On-Premises- und Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige Suchfunktion nach Inhalten in den BlueXP-Dokumenten.</block>
+  <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP ist eine Weiterentwicklung von Cloud Manager. BlueXP ist eine einheitliche Managementplattform, die eine Hybrid-Multi-Cloud-Erfahrung für Storage und Datenservices über On-Premises- und Cloud-Umgebungen hinweg bietet.</block>
+  <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">On-Premises ONTAP Cluster</block>
 </blocks>
