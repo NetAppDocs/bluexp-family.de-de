@@ -131,6 +131,11 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
     summary: Sofort anwendbare, informative Details für optimalen Storage-Zustand
+  - title: Digital Wallet
+    icon: "./media/digital-wallet.png"
+    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    tags: all, governance
+    summary: Verwalten und überwachen Sie Ihre Lizenzen und Abonnements.
   - title: E-Series Systeme
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
