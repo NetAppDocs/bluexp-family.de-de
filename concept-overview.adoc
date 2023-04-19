@@ -22,7 +22,7 @@ NetApp BlueXP ist eine Weiterentwicklung von Cloud Manager. BlueXP ist eine einh
 
 Mit BlueXP können Sie Ihre gesamten Storage- und Daten-Assets über eine einzige Benutzeroberfläche managen.
 
-BlueXP ermöglicht die Erstellung und Verwaltung von Cloud-Storage (z. B. Cloud Volumes ONTAP und Azure NetApp Files), Nutzung von Datenservices (wie Cloud Backup und Cloud Data Sense) und Kontrolle vieler On-Premises- und Edge-Storage-Geräte.
+BlueXP ermöglicht die Erstellung und Administration von Cloud-Storage (z. B. Cloud Volumes ONTAP und Azure NetApp Files), das Verschieben, den Schutz und die Analyse von Daten sowie die Kontrolle vieler lokaler und Edge-Storage-Geräte.
 
 * https://cloud.netapp.com["Weitere Informationen finden Sie auf der BlueXP-Website"^]
 * https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Erste Schritte mit BlueXP"^]
@@ -32,7 +32,7 @@ BlueXP ermöglicht die Erstellung und Verwaltung von Cloud-Storage (z. B. Cloud 
 
 == Neues Navigationsmenü
 
-Im Navigationsmenü von BlueXP werden die Datenservices nun nach Kategorien geordnet und nach ihrer Funktionalität benannt. Sie können zum Beispiel auf Cloud Backup zugreifen, indem Sie in der Kategorie *Schutz* die Option *Backup und Recovery* wählen.
+Im Navigationsmenü von BlueXP sind die Services nun nach Kategorien sortiert und nach ihrer Funktionalität benannt. Sie können beispielsweise aus der Kategorie *Schutz* auf BlueXP Backup und Recovery (Cloud Backup) zugreifen.
 
 image:screenshot-navigation-menu.png["Ein Screenshot des Navigationsmenüs in BlueXP, in dem Kategorien wie Speicher und Gesundheit angezeigt werden."]
 
@@ -42,7 +42,7 @@ image:screenshot-navigation-menu.png["Ein Screenshot des Navigationsmenüs in Bl
 
 * Sie können jetzt die Amazon S3-Buckets in den AWS-Konten verwalten, in denen der Connector installiert ist.
 * Sie können jetzt mehr lokale Storage-Systeme wie E-Series und StorageGRID managen.
-* Sie können nun Datenservices verwenden, die bisher nur als eigenständiger Service mit einer separaten Benutzeroberfläche verfügbar waren, wie z. B. Digital Advisor (früher Active IQ).
+* Datenservices, die zuvor nur als Standalone-Service über eine separate UI genutzt werden können, wie etwa der BlueXP Digital Advisor (Active IQ), können jetzt genutzt werden.
 
 
 *Mehr erfahren*
