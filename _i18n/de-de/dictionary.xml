@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Ermitteln Sie die Anzahl der Dateien, die Tiefe und Breite der Dateisystemstrukturen, die größten Dateien und vieles mehr in Ihrer Speicherlandschaft.</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Volume-Caching</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Erstellen Sie ein schreibbares Cache-Volume, um den Zugriff auf Daten zu beschleunigen oder den Datenverkehr von Volumes zu reduzieren, auf die sehr viel zugegriffen wird.</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob Storage</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Erkennung und Management von Azure Blob Storage in Ihren Azure-Abonnements</block>
 </blocks>
