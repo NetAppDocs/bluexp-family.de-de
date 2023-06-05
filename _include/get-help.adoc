@@ -46,10 +46,6 @@ Zusätzlich zu den oben genannten Self-Support-Optionen können Sie gemeinsam mi
 .. Klicken Sie auf *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.
 .. Klicken Sie auf *Case erstellen*, um ein Ticket mit einem NetApp Support-Experten zu öffnen:
 +
-*** *NetApp Support Site Account*: Wählen Sie das entsprechende NSS-Konto für die Person aus, die den Support-Case eröffnet. Diese Person ist der primäre Ansprechpartner bei NetApp, der Sie sich zusätzlich zu den unten aufgeführten zusätzlichen E-Mails mit anderen Kunden in Verbindung setzen kann.
-+
-Wenn Ihr NSS-Konto nicht angezeigt wird, können Sie im Support-Bereich von BlueXP zur Registerkarte *NSS Management* navigieren, um es dort hinzuzufügen.
-
 *** *Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.
 *** *Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.
 +
