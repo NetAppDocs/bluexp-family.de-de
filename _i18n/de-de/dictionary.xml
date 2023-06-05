@@ -32,8 +32,6 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Schritte</block>
   <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">Klicken Sie in BlueXP auf *Hilfe &gt; Support*.</block>
   <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">Klicken Sie auf *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.</block>
-  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*NetApp Support Site Account*: Wählen Sie das entsprechende NSS-Konto für die Person aus, die den Support-Case eröffnet. Diese Person ist der primäre Ansprechpartner bei NetApp, der Sie sich zusätzlich zu den unten aufgeführten zusätzlichen E-Mails mit anderen Kunden in Verbindung setzen kann.</block>
-  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">Wenn Ihr NSS-Konto nicht angezeigt wird, können Sie im Support-Bereich von BlueXP zur Registerkarte *NSS Management* navigieren, um es dort hinzuzufügen.</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.</block>
   <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Bereich des BlueXP-Kontos, des Arbeitsbereichs und des Connectors, den Sie im oberen Banner des Dienstes ausgewählt haben.</block>
@@ -243,4 +241,6 @@
   <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Um die Funktion *Fall erstellen* nutzen zu können, müssen Sie zunächst Ihre Anmeldedaten für die NetApp Support-Website mit Ihren BlueXP Anmeldedaten verknüpfen.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>.</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Wenn Sie einen Fall für ein ONTAP System mit einer Seriennummer eröffnen, muss Ihr NSS-Konto mit der Seriennummer des Systems verknüpft sein.</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Dieser Fehler könnte bedeuten, dass das NSS-Konto und das Unternehmen des Datensatzes, mit dem es verbunden ist, nicht das gleiche Unternehmen des Eintrags für die BlueXP Account Seriennummer (dh 960xxxx) oder Seriennummer der Arbeitsumgebung. Sie können Hilfe mit einer der folgenden Optionen anfordern:</block>
+  <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">Migrationsberichte</block>
+  <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Ermitteln Sie die Anzahl der Dateien, die Tiefe und Breite der Dateisystemstrukturen, die größten Dateien und vieles mehr in Ihrer Speicherlandschaft.</block>
 </blocks>

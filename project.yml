@@ -137,6 +137,12 @@ product-family:
     summary: Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud
       –
     tags: all,storage,aws,azure
+  - title: Migrationsberichte
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: Ermitteln Sie die Anzahl der Dateien, die Tiefe und Breite der Dateisystemstrukturen,
+      die größten Dateien und vieles mehr in Ihrer Speicherlandschaft.
+    tags: all,storage
   - title: On-Premises ONTAP Cluster
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
