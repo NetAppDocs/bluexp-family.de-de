@@ -247,4 +247,6 @@
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Erstellen Sie ein schreibbares Cache-Volume, um den Zugriff auf Daten zu beschleunigen oder den Datenverkehr von Volumes zu reduzieren, auf die sehr viel zugegriffen wird.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob Storage</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Erkennung und Management von Azure Blob Storage in Ihren Azure-Abonnements</block>
+  <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Dashboard zur Nachhaltigkeit</block>
+  <block id="bc955e300c1eb565285b1d3030f79321" category="sidebar">Nachhaltigkeit Ihres Storage-Systems analysieren</block>
 </blocks>
