@@ -122,7 +122,7 @@ product-family:
   - title: Disaster Recovery
     icon: "./media/icon-disaster-recovery.png"
     url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
-    tags: all, protection
+    tags: all,protection
     summary: Schützen Sie lokale VMware-Workloads mit VMware Cloud on Amazon FSX for
       ONTAP als Disaster-Recovery-Standort.
   - title: E-Series Systeme
