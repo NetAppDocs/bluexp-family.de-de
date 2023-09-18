@@ -114,7 +114,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Globale Dateifreigabe in Echtzeit für Ihre Mitarbeiter an verschiedenen Standorten</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes-Cluster</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud –</block>
-  <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Bewerten Sie, wie widerstandsfähig Ihre Daten gegen einen Cyber-Angriff sind.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replizierung</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replizieren Sie Daten zwischen Storage-Systemen, um Backup und Disaster Recovery zu unterstützen.</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
@@ -179,7 +178,6 @@
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">Digitaler Berater (Active IQ)</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">Digitale Brieftasche</block>
   <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">Edge Caching (Global File Cache)</block>
-  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Schutz durch Ransomware</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Korrektur (AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Tiering (Cloud Tiering)</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">Im Navigationsmenü von BlueXP sind die Services nun nach Kategorien sortiert und nach ihrer Funktionalität benannt. Sie können beispielsweise aus der Kategorie *Schutz* auf BlueXP Backup und Recovery (Cloud Backup) zugreifen.</block>
@@ -253,4 +251,6 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">Wenn Sie dazu aufgefordert werden, wählen Sie *Weiter*, um zu einer Microsoft-Anmeldeseite umgeleitet zu werden.</block>
   <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">Disaster Recovery</block>
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Schützen Sie lokale VMware-Workloads mit VMware Cloud on Amazon FSX for ONTAP als Disaster-Recovery-Standort.</block>
+  <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">Automatisierungsskatalog</block>
+  <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">Verwenden Sie skriptbasierte Lösungen, um die Implementierung und Integration von NetApp Produkten und Services zu automatisieren.</block>
 </blocks>
