@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">Willkommen bei NetApp BlueXP</block>
-  <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">Unified Management</block>
-  <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">Mit BlueXP können Sie Ihre gesamten Storage- und Daten-Assets über eine einzige Benutzeroberfläche managen.</block>
-  <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">Weitere Informationen finden Sie auf der BlueXP-Website</block>
-  <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
-  <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">Erste Schritte mit BlueXP</block>
-  <block id="31f0834695d820dc381e57397e466d12" category="section-title">Neues Navigationsmenü</block>
-  <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">Ein Screenshot des Navigationsmenüs in BlueXP, in dem Kategorien wie Speicher und Gesundheit angezeigt werden.</block>
-  <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">Neue Produktintegrationen</block>
-  <block id="054332983ba253fe4573945dcdbc8109" category="list-text">Sie können jetzt mehr lokale Storage-Systeme wie E-Series und StorageGRID managen.</block>
-  <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*Mehr erfahren*</block>
-  <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">Management von E-Series Storage-Systemen</block>
-  <block id="280f0ea2e556e240b5f15b51047b45b8" category="inline-link">Management von StorageGRID Storage-Systemen</block>
-  <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">Erfahren Sie mehr über die Integration von Digital Advisor</block>
-  <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP-Dokumentation</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp bietet Unterstützung für BlueXP und seine Cloud-Services auf unterschiedliche Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Diese Optionen sind kostenlos verfügbar, 24 Stunden am Tag, 7 Tage die Woche:</block>
@@ -85,8 +69,6 @@
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Mobilität</block>
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">Darstellt</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Storage</block>
-  <block id="acef5d51685932cc367c2b457797c936" category="sidebar">Willkommen bei BlueXP</block>
-  <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">Erfahren Sie mehr über die Einführung von BlueXP.</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Erfahren Sie, wie Sie mit BlueXP beginnen und Connectors, Konten und vieles mehr verwalten.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Erfahren Sie, was in BlueXP neu ist.</block>
@@ -148,9 +130,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Dasselbe gilt, wenn Sie bereits NSS-Konten auf Kundenebene haben und versuchen, ein Konto auf Partnerebene hinzuzufügen.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Bei der erfolgreichen Anmeldung wird NetApp den NSS-Benutzernamen speichern.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Wenn Sie diese Option verwenden, werden Sie aufgefordert, sich erneut anzumelden. Beachten Sie, dass das Token für diese Konten nach 90 Tagen abläuft. Eine Benachrichtigung wird gesendet, um Sie darüber zu informieren.</block>
-  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">Sie können jetzt die Amazon S3-Buckets in den AWS-Konten verwalten, in denen der Connector installiert ist.</block>
-  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Amazon S3 Buckets managen</block>
-  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
   <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3 Storage</block>
   <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Erkennung und Management von Amazon S3 Buckets in Ihren AWS-Konten</block>
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Anhang (optional)*: Laden Sie bis zu fünf Anhänge nacheinander hoch.</block>
@@ -160,28 +139,13 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifizieren Sie Cluster mit aktueller oder prognostizierter niedriger Kapazität und implementieren Sie Daten-Tiering oder zusätzliche Kapazitätsempfehlungen.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Operative Ausfallsicherheit</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementieren Sie automatische Risikobehebungen für Firmware- und Software-Konfigurationen, um den Zustand der ONTAP-Cluster aufrechtzuerhalten.</block>
-  <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP ist eine Weiterentwicklung von Cloud Manager. BlueXP ist eine einheitliche Managementplattform, die eine Hybrid-Multi-Cloud-Erfahrung für Storage und Datenservices über On-Premises- und Cloud-Umgebungen hinweg bietet.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">On-Premises ONTAP Cluster</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Einrichtung und Administration</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">Verwalten und überwachen Sie Ihre Lizenzen und Abonnements.</block>
-  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP (Cloud Manager) bietet Ihrem Unternehmen eine zentrale Managementoberfläche zum Erstellen, Schützen und Steuern von Daten in Ihren On-Premises- und Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige Suchfunktion nach Inhalten in den BlueXP-Dokumenten.</block>
   <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX für NetApp ONTAP</block>
-  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">Backup und Recovery (Cloud-Backup)</block>
-  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">Klassifizierung (Cloud Data Sense)</block>
-  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">Cloud-Betrieb (Computing)</block>
-  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">Kopieren und Synchronisieren (Cloud Sync)</block>
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">Digitaler Berater (Active IQ)</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">Digitale Brieftasche</block>
-  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">Edge Caching (Global File Cache)</block>
-  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Korrektur (AppTemplate)</block>
-  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Tiering (Cloud Tiering)</block>
-  <block id="75d46f12940616f043309dfb109d814d" category="paragraph">Im Navigationsmenü von BlueXP sind die Services nun nach Kategorien sortiert und nach ihrer Funktionalität benannt. Sie können beispielsweise aus der Kategorie *Schutz* auf BlueXP Backup und Recovery (Cloud Backup) zugreifen.</block>
-  <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">Datenservices, die zuvor nur als Standalone-Service über eine separate UI genutzt werden können, wie etwa der BlueXP Digital Advisor (Active IQ), können jetzt genutzt werden.</block>
-  <block id="a28e6578744ceeb545878235d414e497" category="paragraph">Mit BlueXP können Sie Cloud-Storage erstellen und verwalten (z. B. Cloud Volumes ONTAP und Azure NetApp Files), Daten verschieben, schützen und analysieren sowie zahlreiche lokale und Edge-Storage-Geräte kontrollieren.</block>
-  <block id="5995a098ad9262cdb440548d6600934f" category="list-text"><block ref="5995a098ad9262cdb440548d6600934f" category="inline-link-rx"></block></block>
-  <block id="120b07a98eececd322e53cecc2102f44" category="list-text"><block ref="120b07a98eececd322e53cecc2102f44" category="inline-link-rx"></block></block>
-  <block id="e85444ee57c2061143502fa15b083bcc" category="list-text"><block ref="e85444ee57c2061143502fa15b083bcc" category="inline-link-rx"></block></block>
   <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
@@ -253,4 +217,12 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Technischen Support zu Fileservices von Cloud-Providern, zu seiner Infrastruktur oder zu beliebigen Lösungen, die den Service verwenden, finden Sie im Abschnitt „Hilfe erhalten“ in der BlueXP Dokumentation zu diesem Produkt.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Wenn Sie technischen Support für BlueXP und seine Storage-Lösungen und -Services erhalten möchten, nutzen Sie die unten beschriebenen Support-Optionen.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp verwendet Microsoft Entra ID als Identitätsanbieter für Authentifizierungsservices, die speziell auf Support und Lizenzierung zugeschnitten sind.</block>
+  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP bietet Ihrem Unternehmen eine zentrale Managementoberfläche zum Erstellen, Schützen und Überwachen von Daten in Ihren On-Premises- und Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige Suchfunktion nach Inhalten in den BlueXP-Dokumenten.</block>
+  <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Backup und Recovery</block>
+  <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Klassifizierung</block>
+  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">Cloud-Betrieb</block>
+  <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Kopieren und Synchronisieren</block>
+  <block id="ba695b3cf8b635f89946173735838948" category="sidebar">Edge-Caching</block>
+  <block id="282baca6aef56652f503adce6afa9f07" category="sidebar">Korrekturmaßnahmen</block>
+  <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">Tiering</block>
 </blocks>
