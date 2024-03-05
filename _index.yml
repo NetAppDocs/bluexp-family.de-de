@@ -167,6 +167,12 @@ product-family:
     summary: Implementieren Sie automatische Risikobehebungen für Firmware- und Software-Konfigurationen,
       um den Zustand der ONTAP-Cluster aufrechtzuerhalten.
     tags: all,health
+  - title: Schutz durch Ransomware
+    icon: "./media/icon-ransomware.png"
+    url: "../bluexp-ransomware-protection/index.html"
+    summary: Erkennen Sie Anomalien, die möglicherweise zu Ransomware-Angriffen führen.
+      Schutz und Recovery von Workloads
+    tags: all,protection
   - title: Korrekturmaßnahmen
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
