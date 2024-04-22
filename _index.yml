@@ -173,12 +173,6 @@ product-family:
     summary: Erkennen Sie Anomalien, die möglicherweise zu Ransomware-Angriffen führen.
       Schutz und Recovery von Workloads
     tags: all,protection
-  - title: Korrekturmaßnahmen
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: Automatisieren Sie Aktionen in BlueXP, um die Bereitstellung zu beschleunigen
-      und manuelle Arbeiten zu vermeiden.
-    tags: all,health
   - title: Replizierung
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
