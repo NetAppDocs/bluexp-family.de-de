@@ -132,28 +132,10 @@ product-family:
     summary: Identifizieren Sie Cluster mit aktueller oder prognostizierter niedriger
       Kapazität und implementieren Sie Daten-Tiering oder zusätzliche Kapazitätsempfehlungen.
     tags: all,governance
-  - title: Edge-Caching
-    icon: "./media/icon-cache.png"
-    url: "../bluexp-edge-caching/index.html"
-    summary: Globale Dateifreigabe in Echtzeit für Ihre Mitarbeiter an verschiedenen
-      Standorten
-    tags: all,mobility,aws,azure,gcp
   - title: Google Cloud Storage
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: Erkennen und managen Sie die Cloud Storage Buckets in Ihrem Google Konto.
-    tags: all,storage
-  - title: Kubernetes-Cluster
-    icon: "./media/icon-kubernetes.png"
-    url: "../bluexp-kubernetes/index.html"
-    summary: Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud
-      –
-    tags: all,storage,aws,azure
-  - title: Migrationsberichte
-    icon: "./media/icon-reports.png"
-    url: "../bluexp-reports/index.html"
-    summary: Ermitteln Sie die Anzahl der Dateien, die Tiefe und Breite der Dateisystemstrukturen,
-      die größten Dateien und vieles mehr in Ihrer Speicherlandschaft.
     tags: all,storage
   - title: On-Premises ONTAP Cluster
     icon: "./media/icon-onprem.png"
