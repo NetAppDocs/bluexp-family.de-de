@@ -76,7 +76,6 @@
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">Amazon FSX für ONTAP</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Alle Funktionen von ONTAP als nativen, von AWS gemanagten Service nutzen</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Programmgesteuertes Verwalten Ihrer Cloud-basierten Ressourcen</block>
-  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">Automatisieren Sie Aktionen in BlueXP, um die Bereitstellung zu beschleunigen und manuelle Arbeiten zu vermeiden.</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Dateien</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Der hochperformante File-Storage-Service für Ihre wichtigsten Business-Applikationen.</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Backup und Restore von Cloud- und On-Premises-Daten</block>
@@ -90,9 +89,6 @@
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Erhalten Sie einen transparenten Überblick über Ihre Cloud-Computing-Ausgaben und lassen Sie potenzielle Einsparungen erkennen.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">E-Series Systeme</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Entdecken Sie E-Series Systeme, mit denen Sie alle Daten in Ihrer gesamten Hybrid-Multi-Cloud anzeigen können.</block>
-  <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Globale Dateifreigabe in Echtzeit für Ihre Mitarbeiter an verschiedenen Standorten</block>
-  <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes-Cluster</block>
-  <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Erweitertes Datenmanagement der Kubernetes-Cluster in der Hybrid Cloud –</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replizierung</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replizieren Sie Daten zwischen Storage-Systemen, um Backup und Disaster Recovery zu unterstützen.</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
@@ -182,8 +178,6 @@
   <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Um die Funktion *Fall erstellen* nutzen zu können, müssen Sie zunächst Ihre Anmeldedaten für die NetApp Support-Website mit Ihren BlueXP Anmeldedaten verknüpfen.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>.</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Wenn Sie einen Fall für ein ONTAP System mit einer Seriennummer eröffnen, muss Ihr NSS-Konto mit der Seriennummer des Systems verknüpft sein.</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Dieser Fehler könnte bedeuten, dass das NSS-Konto und das Unternehmen des Datensatzes, mit dem es verbunden ist, nicht das gleiche Unternehmen des Eintrags für die BlueXP Account Seriennummer (dh 960xxxx) oder Seriennummer der Arbeitsumgebung. Sie können Hilfe mit einer der folgenden Optionen anfordern:</block>
-  <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">Migrationsberichte</block>
-  <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Ermitteln Sie die Anzahl der Dateien, die Tiefe und Breite der Dateisystemstrukturen, die größten Dateien und vieles mehr in Ihrer Speicherlandschaft.</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Volume-Caching</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Erstellen Sie ein schreibbares Cache-Volume, um den Zugriff auf Daten zu beschleunigen oder den Datenverkehr von Volumes zu reduzieren, auf die sehr viel zugegriffen wird.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob Storage</block>
@@ -222,9 +216,9 @@
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Klassifizierung</block>
   <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">Cloud-Betrieb</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Kopieren und Synchronisieren</block>
-  <block id="ba695b3cf8b635f89946173735838948" category="sidebar">Edge-Caching</block>
-  <block id="282baca6aef56652f503adce6afa9f07" category="sidebar">Korrekturmaßnahmen</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">Tiering</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Schutz durch Ransomware</block>
   <block id="a8dd42d088a97f32bf9a4c69abc2517a" category="sidebar">Erkennen Sie Anomalien, die möglicherweise zu Ransomware-Angriffen führen. Schutz und Recovery von Workloads</block>
+  <block id="5009e1070e5138d1308165bc75e5706b" category="sidebar">Software-Updates</block>
+  <block id="e5f69c6478276f31149c942722646515" category="sidebar">Automatisierung von Bewertung, Planung und Ausführung von ONTAP Upgrades</block>
 </blocks>
