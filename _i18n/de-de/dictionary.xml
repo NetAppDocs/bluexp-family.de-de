@@ -219,9 +219,10 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu ermöglichen, müssen die Zugangsdaten auf der NetApp Support Website Ihrer BlueXP  Abteilung zugeordnet werden:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">Das Zuordnen von NSS-Anmeldeinformationen zu Ihrer BlueXP -Organisation unterscheidet sich von dem NSS-Konto, das mit einer BlueXP -Benutzeranmeldung verknüpft ist.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Diese NSS-Anmeldedaten sind mit Ihrer spezifischen BlueXP -Organisations-ID verknüpft. Benutzer, die zur BlueXP -Organisation gehören, können über *Support &gt; NSS-Verwaltung* auf diese Anmeldeinformationen zugreifen.</block>
-  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">Anschlüsse und IAM</block>
   <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">Monitoring</block>
   <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">Erfahren Sie, wie Sie mit BlueXP  beginnen und Identitäts- und Zugriffsmanagement, Connectors und vieles mehr verwalten.</block>
   <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">Meldungen</block>
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Sie erhalten Probleme im Zusammenhang mit Kapazität, Verfügbarkeit, Performance, Sicherung und Sicherheit in Ihrer ONTAP-Umgebung.</block>
+  <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Anschlüsse</block>
+  <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Identitäts- und Zugriffsmanagement</block>
 </blocks>
