@@ -88,7 +88,6 @@
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replizieren Sie Daten zwischen Storage-Systemen, um Backup und Disaster Recovery zu unterstützen.</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">Erkennung und Management Ihrer StorageGRID Systeme</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">Managen Sie Ihre NetApp AFF- und FAS-Systeme über BlueXP mit den Datenservices von System Manager und BlueXP.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Bevor Sie beginnen</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Nachdem Sie fertig sind</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">Self-Support-Optionen</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Sie erhalten Probleme im Zusammenhang mit Kapazität, Verfügbarkeit, Performance, Sicherung und Sicherheit in Ihrer ONTAP-Umgebung.</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Anschlüsse</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Identitäts- und Zugriffsmanagement</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Managen Sie Ihre lokalen ONTAP Cluster über BlueXP  mit System Manager und den Datenservices von BlueXP .</block>
 </blocks>
