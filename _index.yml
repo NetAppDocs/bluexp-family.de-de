@@ -33,6 +33,8 @@ product-family:
     tags: protection
   - title: Storage
     tags: storage
+  - title: Workloads
+    tags: workloads
   tiles:
   - title: Einrichtung und Administration
     icon: "./media/icon-admin.png"
@@ -198,3 +200,9 @@ product-family:
       zu beschleunigen oder den Datenverkehr von Volumes zu reduzieren, auf die sehr
       viel zugegriffen wird.
     tags: all,mobility
+  - title: Workloads
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Entwerfen, Einrichten und Betreiben wichtiger Workloads mit Amazon FSX
+      für NetApp ONTAP
+    tags: all,workloads
