@@ -3,12 +3,12 @@ product-family:
   title: BlueXP-Dokumentation
   lead: NetApp BlueXP bietet Ihrem Unternehmen eine zentrale Managementoberfläche
     zum Erstellen, Schützen und Überwachen von Daten in Ihren On-Premises- und Cloud-Umgebungen.
-    Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige
-    Suchfunktion nach Inhalten in den BlueXP-Dokumenten.
+    Durchsuchen Sie die Dokumente nach Produktbereich oder verwenden Sie die Suche
+    oben, um Inhalte zu finden.
   summary: NetApp BlueXP bietet Ihrem Unternehmen eine zentrale Managementoberfläche
     zum Erstellen, Schützen und Überwachen von Daten in Ihren On-Premises- und Cloud-Umgebungen.
-    Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige
-    Suchfunktion nach Inhalten in den BlueXP-Dokumenten.
+    Durchsuchen Sie die Dokumente nach Produktbereich oder verwenden Sie die Suche
+    oben, um Inhalte zu finden.
   sidebarlinks:
   - title: Alle
     tags: all
@@ -17,8 +17,6 @@ product-family:
     tags: api
   - title: Anschlüsse
     tags: connectors
-  - title: Erweiterungen
-    tags: extension
   - title: Governance
     tags: governance
   - title: Systemzustand
@@ -142,6 +140,12 @@ product-family:
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: Erkennen und managen Sie die Cloud Storage Buckets in Ihrem Google Konto.
+    tags: all,storage
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: Greifen Sie über BlueXP auf Ihr Keystone-Abonnement zu und verwalten
+      Sie es.
     tags: all,storage
   - title: On-Premises ONTAP Cluster
     icon: "./media/icon-onprem.png"
