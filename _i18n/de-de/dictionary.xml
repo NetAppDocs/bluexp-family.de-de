@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP bietet Ihrem Unternehmen eine zentrale Managementoberfläche zum Erstellen, Schützen und Überwachen von Daten in Ihren On-Premises- und Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich oder verwenden Sie die Suche oben, um Inhalte zu finden.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">Greifen Sie über BlueXP auf Ihr Keystone-Abonnement zu und verwalten Sie es.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
 </blocks>
