@@ -70,7 +70,6 @@
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Alle Funktionen von ONTAP als nativen, von AWS gemanagten Service nutzen</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Programmgesteuertes Verwalten Ihrer Cloud-basierten Ressourcen</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Dateien</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Backup und Restore von Cloud- und On-Premises-Daten</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Sorgen Sie für den Schutz Ihrer Applikationsdaten und Cloud-Umgebungen.</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Datensynchronisierung von On-Premises- und Cloud-Datenspeichern</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">Erweitern Sie Ihren lokalen ONTAP-Storage in die Cloud.</block>
@@ -122,8 +121,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aktennotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um maximal fünf Dateien anzuhängen.</block>
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Wirtschaftliche Effizienz</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifizieren Sie Cluster mit aktueller oder prognostizierter niedriger Kapazität und implementieren Sie Daten-Tiering oder zusätzliche Kapazitätsempfehlungen.</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Operative Ausfallsicherheit</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementieren Sie automatische Risikobehebungen für Firmware- und Software-Konfigurationen, um den Zustand der ONTAP-Cluster aufrechtzuerhalten.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">On-Premises ONTAP Cluster</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Einrichtung und Administration</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp bietet Support für BlueXP und seine Cloud-Services auf vielfältige Weise. Umfangreiche kostenlose Self-Support-Optionen stehen Ihnen rund um die Uhr zur Verfügung, darunter Knowledgebase-Artikel und ein Community-Forum. Ihre Support-Registrierung beinhaltet technischen Remote-Support per Web-Ticketing.</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">Ein Screenshot, der eine Kontoseriennummer, ein grünes Kontrollkästchen und den Text „Für Support registriert“ zeigt.</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">Sichern und Wiederherstellen von Cloud- und lokalen Daten.</block>
 </blocks>
